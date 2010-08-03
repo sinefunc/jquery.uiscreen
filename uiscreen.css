@@ -1,0 +1,8 @@
+.uiscreen {
+  background: rgba(40, 60, 80, 0.2);
+}
+.uiscreen-spinner {
+  background: white url(uiscreen-load.gif) center center no-repeat;
+  width: 50px; height: 50px;
+  position: absolute; top: 10px; right: 10px;
+}
