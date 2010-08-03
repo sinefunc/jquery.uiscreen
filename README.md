@@ -1,5 +1,5 @@
-UIScreen
-========
+UIScreen v0.1.0
+===============
 
 Covers an element with a loading screen. Useful for AJAX transactions.
 Requires JQuery 1.3+.

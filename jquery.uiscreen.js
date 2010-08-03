@@ -1,4 +1,7 @@
-// Usage:
+// UIscreen v0.1.0
+// http://github.com/sinefunc/jquery.uiscreen
+//
+// Basic usage:
 //
 //   $("#element").screen();
 //   $("#element").unscreen();
